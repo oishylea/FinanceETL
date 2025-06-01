@@ -1,0 +1,7 @@
+gender,age,Investment_Avenues,Mutual_Funds,Equity_Market,Debentures,Government_Bonds,Fixed_Deposits,PPF,Gold,Stock_Marktet,Factor,Objective,Purpose,Duration,Invest_Monitor,Expect,Avenue,What are your savings objectives?,Reason_Equity,Reason_Mutual,Reason_Bonds,Reason_FD,Source
+Male,31,Yes,1,3,7,4,5,2,6,Yes,Returns,Capital Appreciation,Wealth Creation,3-5 years,Monthly,30%-40%,Fixed Deposits,Retirement Plan,Capital Appreciation,Fund Diversification,Assured Returns,Fixed Returns,Newspapers and Magazines
+Male,26,Yes,3,4,6,5,1,2,7,Yes,Risk,Capital Appreciation,Wealth Creation,3-5 years,Monthly,20%-30%,Fixed Deposits,Health Care,Capital Appreciation,Fund Diversification,Assured Returns,Risk Free,Newspapers and Magazines
+Female,32,Yes,3,4,7,5,1,2,6,Yes,Risk,Growth,Wealth Creation,3-5 years,Monthly,20%-30%,Mutual Fund,Retirement Plan,Capital Appreciation,Better Returns,Assured Returns,Fixed Returns,Financial Consultants
+Male,26,Yes,3,4,6,5,1,2,7,Yes,Returns,Capital Appreciation,Wealth Creation,3-5 years,Monthly,20%-30%,Mutual Fund,Retirement Plan,Dividend,Fund Diversification,Assured Returns,Fixed Returns,Financial Consultants
+Male,30,Yes,1,4,6,5,3,2,7,Yes,Risk,Growth,Wealth Creation,3-5 years,Monthly,20%-30%,Fixed Deposits,Health Care,Capital Appreciation,Better Returns,Assured Returns,Fixed Returns,Financial Consultants
+Male,25,Yes,5,4,7,6,1,2,3,Yes,Risk,Growth,Savings for Future,3-5 years,Monthly,30%-40%,Public Provident Fund,Health Care,Capital Appreciation,Better Returns,Safe Investment,Fixed Returns,Financial Consultants

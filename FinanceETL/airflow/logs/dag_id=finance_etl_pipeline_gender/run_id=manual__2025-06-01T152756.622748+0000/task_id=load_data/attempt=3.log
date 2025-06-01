@@ -1,0 +1,5 @@
+{"timestamp":"2025-06-01T15:34:33.764587","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-06-01T15:34:33.766862","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/GenderBased.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-06-01T15:34:34.882852Z","level":"info","event":"Loading transformed data from /opt/airflow/dags/transformed_data_gender/transformed_finance_data_Female.csv","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-01T15:34:34.915581Z","level":"info","event":"Loading transformed data from /opt/airflow/dags/transformed_data_gender/transformed_finance_data_Male.csv","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-01T15:34:34.885729","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}

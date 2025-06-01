@@ -1,0 +1,6 @@
+{"timestamp":"2025-06-01T15:28:07.841062","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-06-01T15:28:07.842594","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/GenderBased.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-06-01T15:28:08.993539","level":"warning","event":"Passing literal json to 'read_json' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.","category":"FutureWarning","filename":"/opt/airflow/dags/GenderBased.py","lineno":29,"logger":"py.warnings"}
+{"timestamp":"2025-06-01T15:28:09.042186Z","level":"info","event":"Saved filtered data for Gender=Female to /opt/airflow/dags/transformed_data/transformed_finance_data_Female.csv","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-01T15:28:09.055804Z","level":"info","event":"Saved filtered data for Gender=Male to /opt/airflow/dags/transformed_data/transformed_finance_data_Male.csv","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-01T15:28:09.057148","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}

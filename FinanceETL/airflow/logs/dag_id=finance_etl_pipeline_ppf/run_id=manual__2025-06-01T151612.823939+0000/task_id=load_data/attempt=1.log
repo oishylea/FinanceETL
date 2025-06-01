@@ -1,0 +1,9 @@
+{"timestamp":"2025-06-01T15:17:30.747536","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-06-01T15:17:30.749867","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/PPFBased.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-06-01T15:17:38.045081Z","level":"info","event":"Loading transformed data from /opt/airflow/dags/transformed_data/transformed_finance_data_6.csv","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-01T15:17:38.046490Z","level":"info","event":"Loading transformed data from /opt/airflow/dags/transformed_data/transformed_finance_data_1.csv","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-01T15:17:38.047220Z","level":"info","event":"Loading transformed data from /opt/airflow/dags/transformed_data/transformed_finance_data_4.csv","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-01T15:17:38.048049Z","level":"info","event":"Loading transformed data from /opt/airflow/dags/transformed_data/transformed_finance_data_5.csv","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-01T15:17:38.049140Z","level":"info","event":"Loading transformed data from /opt/airflow/dags/transformed_data/transformed_finance_data_2.csv","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-01T15:17:38.049893Z","level":"info","event":"Loading transformed data from /opt/airflow/dags/transformed_data/transformed_finance_data_3.csv","chan":"stdout","logger":"task"}
+{"timestamp":"2025-06-01T15:17:38.046734","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
