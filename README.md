@@ -1,4 +1,4 @@
-# 📊 Finance Data ETL Pipeline
+# 📊 Finance ETL Data Pipeline
 A simple ETL (Extract, Transform, Load) pipeline built using **Apache Airflow** and **Docker** to process finance survey data from Kaggle, collected via Google Forms during COVID-19.
 
 ---
