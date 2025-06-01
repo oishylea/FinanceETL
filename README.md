@@ -1,5 +1,5 @@
 # 📊 Finance Data ETL Pipeline
-A simple ETL (Extract, Transform, Load) pipeline built using **Apache Airflow** and **Docker** to process and categorize finance survey data collected during the COVID-19 lockdown via Google Forms.
+A simple ETL (Extract, Transform, Load) pipeline built using **Apache Airflow** and **Docker** to process finance survey data from Kaggle, collected via Google Forms during COVID-19.
 
 ---
 
